@@ -18,8 +18,8 @@ export default function Projects() {
       title: "Personal Portfolio Website",
       description: "Website portofolio interaktif dengan kursor kustom bintang dan animasi scroll halus menggunakan React dan Framer Motion.",
       tech: ["React", "Vite", "Tailwind CSS", "Framer Motion"],
-      github: "https://github.com/nns511-tech",
-      demo: ""
+      github: "https://github.com/nns511-tech/my-portfolio",
+      demo: "https://my-portfolio-kohl-gamma-69.vercel.app/"
     }
   ];
 

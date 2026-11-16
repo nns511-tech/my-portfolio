@@ -9,26 +9,18 @@ export default function Contacts() {
         </p>
         <div className="flex justify-center gap-4 flex-wrap">
           <a
-            href="mailto:emailkamu@example.com"
+            href="mailto:nns.511.tech@gmail.com"
             className="bg-sky-500 hover:bg-sky-600 text-white font-semibold px-6 py-3 rounded-xl shadow-sm shadow-sky-200 transition"
           >
             Email Saya
           </a>
           <a
-            href="https://github.com"
+            href="https://github.com/nns511-tech"
             target="_blank"
             rel="noreferrer"
             className="bg-white hover:bg-sky-100/50 text-sky-700 border border-sky-200 font-medium px-6 py-3 rounded-xl transition"
           >
             GitHub
-          </a>
-          <a
-            href="https://linkedin.com"
-            target="_blank"
-            rel="noreferrer"
-            className="bg-white hover:bg-sky-100/50 text-sky-700 border border-sky-200 font-medium px-6 py-3 rounded-xl transition"
-          >
-            LinkedIn
           </a>
         </div>
       </div>

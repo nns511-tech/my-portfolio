@@ -3,7 +3,7 @@ export default function Projects() {
     {
       title: "Toko Bunga E-Commerce",
       description: "Aplikasi web e-commerce toko bunga interaktif dengan katalog produk, fitur keranjang belanja, dan integrasi database.",
-      tech: ["React", "TypeScript", "Vite", "Tailwind CSS", "Supabase"],
+      tech: ["React", "TypeScript", "Next.js", "Tailwind CSS", "Supabase"],
       github: "https://github.com/nns511-tech/ecommerce-flower",
       demo: "https://ecommerce-flower-j.vercel.app/" 
     },

@@ -12,7 +12,7 @@ export default function Projects() {
       title: "Campus Room Reservation API",
       description: "RESTful API untuk peminjaman ruangan kampus lengkap dengan manajemen jadwal dan integrasi database PostgreSQL.",
       tech: ["Node.js", "Express.js", "Supabase", "Vercel"],
-      image: "/project-api.png",
+      image: "/project-reservasi.png",
       github: "https://github.com/nns511-tech",
       demo: "https://reservasi-ruangan-icc.vercel.app/"
     },
